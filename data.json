@@ -3,7 +3,7 @@
       "categoryId": 1,
       "category": "automotive_industry",
       "categoryName": "Automotive Industry",
-      "categoryImage": "https://raw.githubusercontent.com/Akshay574/api/main/category-poster/Automotive-Industry.jpg",
+      "categoryImage": "category-poster/Automotive-Industry.jpg",
       "categoryDescription": "EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
       "products": [
           {
@@ -19,7 +19,7 @@
                   "Comes out one piece without tearing",
                   "Residue free tape"
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           },
           {
               "id": 2,
@@ -37,7 +37,7 @@
                   "High resistance to abrasion.",
                   "No Residue Behind."
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           }
       ]
   },
@@ -45,7 +45,7 @@
       "categoryId": 2,
       "category": "white_goods_industry",
       "categoryName": "White Goods Industry",
-      "categoryImage": "category-poster/White-Good-Industry.jpg",
+      "categoryImage": "https://raw.githubusercontent.com/Akshay574/api/main/category-poster/White-Good-Industry.jpg",
       "categoryDescription": "White EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
       "products": [
           {
@@ -63,7 +63,7 @@
                   "Designed for applications needing both the dielectric strength of polyester film.",
                   "High mechanical strength of glass fibers Provides clear visibility of box graphics, printing, and illustrations."
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           },
           {
               "id": 4,
@@ -87,7 +87,7 @@
                   "Durable seal against moisture, salt, and other elements",
                   "Excellent weather resistant tapes."
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           }
       ]
   },
@@ -95,7 +95,7 @@
       "categoryId": 3,
       "category": "wire_harness_industry",
       "categoryName": "Wire Harness Industry",
-      "categoryImage": "category-poster/Wire-Harness-Industry.jpg",
+      "categoryImage": "https://raw.githubusercontent.com/Akshay574/api/main/category-poster/Wire-Harness-Industry.jpg",
       "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
       "products": [
           {
@@ -113,7 +113,7 @@
                   "Heavy-dutyy water resistance tape.",
                   "Edge protection, security seal tape, tamper-proof tape, and company branding can all be accomplished with HDPE self-adhesive tape."
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           },
           {
               "id": 6,
@@ -130,7 +130,7 @@
                   "Specific embossed plastic liner reduces the risk of air entrapment, allowing for bubble-free mounting of the plate.",
                   "Plates are easily repositioned during mounting as the full adhesion of the tape only becomes effective during the print run."
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           }
       ]
   },
@@ -138,7 +138,7 @@
       "categoryId": 4,
       "category": "electrical_and_electronic_industry",
       "categoryName": "Electrical and Electronic Industry",
-      "categoryImage": "category-poster/Electricals-Electronics-Industry.jpg",
+      "categoryImage": "https://raw.githubusercontent.com/Akshay574/api/main/category-poster/Electricals-Electronics-Industry.jpg",
       "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
       "products": [
           {
@@ -156,7 +156,7 @@
                   "Paper construction is easy to handle, making it ideal for hand applications.",
                   "They are an easy, economical solution to a wide variety of carton sealing challenges."
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           },
           {
               "id": 8,
@@ -174,7 +174,7 @@
                   "Aggressive natural/synthetic rubber adhesive is designed to offer positive",
                   "Attractive seal to minimize carton sealing failures and prevent pilferage."
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           }
       ]
   },
@@ -182,7 +182,7 @@
       "categoryId": 5,
       "category": "hvac_industry",
       "categoryName": "HVAC Industry",
-      "categoryImage": "category-poster/HVAC-Industry.jpg",
+      "categoryImage": "https://raw.githubusercontent.com/Akshay574/api/main/category-poster/HVAC-Industry.jpg",
       "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
       "products": [
           {
@@ -202,7 +202,7 @@
                   "Anti Skid or Slip Tape is intended to improve and maintain assurance of safety in slick building locations.",
                   "Anti-slip tape adds extra traction for uneven elevations that are made even riskier for employees or visitors when wet."
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           },
           {
               "id": 10,
@@ -219,7 +219,7 @@
                   "These are used by mirror makers for holding mirrors to base without the need of any screw.",
                   "These tapes save time and labour."
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           }
       ]
   },
@@ -227,7 +227,7 @@
       "categoryId": 6,
       "category": "label_industry",
       "categoryName": "Label Industry",
-      "categoryImage": "category-poster/Label-Industry.jpg",
+      "categoryImage": "https://raw.githubusercontent.com/Akshay574/api/main/category-poster/Label-Industry.jpg",
       "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
       "products": [
           {
@@ -251,7 +251,7 @@
                   "Good shear strength",
                   "No slippage after long applied"
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           },
           {
               "id": 12,
@@ -270,7 +270,7 @@
                   "Everyday marking tape is abrasion-resistant and long-lasting, extending the life of floor safety markings.",
                   "Sticks to Concrete, Composite, Wood, Vinyl, Tile & many more."
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           }
       ]
   },
@@ -278,7 +278,7 @@
       "categoryId": 7,
       "category": "packaging_industry",
       "categoryName": "Packaging Industry",
-      "categoryImage": "category-poster/Packaging-Industry.jpg",
+      "categoryImage": "https://raw.githubusercontent.com/Akshay574/api/main/category-poster/Packaging-Industry.jpg",
       "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
       "products": [
           {
@@ -301,7 +301,7 @@
                   "Writable grade",
                   "Hand tearable."
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           },
           {
               "id": 14,
@@ -316,7 +316,7 @@
                   "Comes out one piece without tearing",
                   "Residue free tape"
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           }
       ]
   },
@@ -324,7 +324,7 @@
       "categoryId": 8,
       "category": "paper_mill_industry",
       "categoryName": "Paper Mill Industry",
-      "categoryImage": "category-poster/Paper-Mills-Industry.jpg",
+      "categoryImage": "https://raw.githubusercontent.com/Akshay574/api/main/category-poster/Paper-Mills-Industry.jpg",
       "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
       "products": [
           {
@@ -340,7 +340,7 @@
                   "High temperature PVC wire harness tape for cable wire",
                   "Harness industry with higher thickness"
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           },
           {
               "id": 16,
@@ -358,7 +358,7 @@
                   "1,000 foot roll tape capacity",
                   "Random Key"
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           }
       ]
   },
@@ -366,7 +366,7 @@
       "categoryId": 9,
       "category": "signage_industry",
       "categoryName": "Signage Industry",
-      "categoryImage": "category-poster/Signage-Industry.jpg",
+      "categoryImage": "https://raw.githubusercontent.com/Akshay574/api/main/category-poster/Signage-Industry.jpg",
       "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
       "products": [
           {
@@ -381,7 +381,7 @@
                   "Packing stations without access to electricity",
                   "When there's a need to move the tape dispenser between various locations"
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           },
           {
               "id": 18,
@@ -396,7 +396,7 @@
                   "Tapes can be printed with company name or logo for better appeal & identification.",
                   "Flawless dimensional stability and flatness."
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           }
       ]
   },
@@ -404,7 +404,7 @@
       "categoryId": 10,
       "category": "surface_protection_industry",
       "categoryName": "Surface Protection Industry",
-      "categoryImage": "category-poster/Surface-protection-Industry.jpg",
+      "categoryImage": "https://raw.githubusercontent.com/Akshay574/api/main/category-poster/Surface-protection-Industry.jpg",
       "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
       "products": [
           {
@@ -425,7 +425,7 @@
                   "Increase in sales and profits through decrease in revenue loss, less complaints & lowering costs of replacement shipments.",
                   "Securing shipments throughout the entire distribution chain."
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           },
           {
               "id": 20,
@@ -444,7 +444,7 @@
                   "Good shear strength",
                   "No slippage after long applied"
               ],
-              "image": "Product_imager/image 1.png"
+              "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
           }
       ]
   }
