@@ -1,0 +1,451 @@
+[
+  {
+      "categoryId": 1,
+      "category": "automotive_industry",
+      "categoryName": "Automotive Industry",
+      "categoryImage": "category-poster/Automotive-Industry.jpg",
+      "categoryDescription": "EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
+      "products": [
+          {
+              "id": 1,
+              "title": "ALUMINIUM FOIL TAPES",
+              "description": "Double-sided cloth tape consists of high-quality cloth coated with strong modified adhesive to suit the application of flex industry.",
+              "application": [
+                  "It is a Perfect Product of Carpet Fixing, Plate Mounting in Flexo Printing Unit.",
+                  "Ideal for Reinforcing of conveyor belts."
+              ],
+              "features": [
+                  "Cotton base tape",
+                  "Comes out one piece without tearing",
+                  "Residue free tape"
+              ],
+              "image": "Product_imager/image 1.png"
+          },
+          {
+              "id": 2,
+              "title": "BOOK BINDING TAPES",
+              "description": "Our book binding tape is water resistance, strong hold, no damage. This binding repair tape is very easy to use, just take out your old book, measure the size that need to be repaired, then tear off the tape by hand or use a scissor, apply the tape to your book",
+              "application": [
+                  "Our  book binding tape can be used for Book Repair, Gaffer use",
+                  "Staging and Photography, Cables, Wires wrapping, Decoration",
+                  "Bookbinding Tape is great for repairing, reinforcing.",
+                  "Protects books, magazines, pamphlets, and other documents"
+              ],
+              "features": [
+                  "Our book binding tape is made up of a non-reflective cloth-based adhesive.",
+                  "It is very easy to tear by hand.",
+                  "High resistance to abrasion.",
+                  "No Residue Behind."
+              ],
+              "image": "Product_imager/image 1.png"
+          }
+      ]
+  },
+  {
+      "categoryId": 2,
+      "category": "white_goods_industry",
+      "categoryName": "White Goods Industry",
+      "categoryImage": "category-poster/White-Good-Industry.jpg",
+      "categoryDescription": "White EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
+      "products": [
+          {
+              "id": 3,
+              "title": "CROSS FILAMENT TAPES",
+              "description": "A strong and long-lasting cross-weave filament packing tape which has been specially designed for applications requiring a high breaking strength. This self-adhesive cross filament tape has a film backing and rubber adhesive. Woven glass fibres reinforce the backing, making this product extremely strong when used for heavy packing where it can replace metal and polypropylene strapping to great advantage. we assure you premium quality tapes with lasting hold. The cross filament tape uses include packaging functions such as pallet unitizing, reinforcing packages, and bundling items.",
+              "application": [
+                  "Excellent for anchoring lead wires to banding coils and end-turn taping.",
+                  "It is used from packing heavy duty items to bundling light items.",
+                  "The tough, clear film backing is abrasion and moisture resistant, provides good aging and protects the filaments and adhesive to help your boxes remain closed for long periods of time.",
+                  "Mario mono filament tape is designed for the majority of packaging, tabbing, splicing, binding and harnessing, coil wrap banding, bundling and etc"
+              ],
+              "features": [
+                  "Our filament tape is solvent-resistant, high temperature filament tape.",
+                  "Designed for applications needing both the dielectric strength of polyester film.",
+                  "High mechanical strength of glass fibers Provides clear visibility of box graphics, printing, and illustrations."
+              ],
+              "image": "Product_imager/image 1.png"
+          },
+          {
+              "id": 4,
+              "title": "ACRYLIC FOAM TAPES",
+              "description": "Acrylic Foam Tape is a strong double-sided adhesive tape used for permanent fixing of mounting trims, Emblems & Body Side Moldings to be fixed with high- performance adhesive. Various grades of high-bond single & double-sided Acrylic & PE foam tapes and die-cuts of top-rated acrylic foam tape companies are also available.",
+              "application": [
+                  "Offers outstanding resistance to abrasion, vibration, moisture, and UV light.",
+                  "While still offering a strong bond, tape assembly is simpler than riveting and welding.",
+                  "Due to a lasting adhesive and uniform stress load distribution, it is perfect for gluing external panels.",
+                  "Due to a lasting adhesive and uniform stress load distribution, it is perfect for gluing external panels.",
+                  "Flexible design that has been proven to work for different electronic applications, including sealed devices.",
+                  "Weather-resistant and able to create a surface with a connection that is almost undetectable.",
+                  "Inventive materials to speed up production, improve look, and improve performance."
+              ],
+              "features": [
+                  "The use of tape avoids the need for cleaning, screwing, drilling, refinishing, and welding.",
+                  "Without needing to dry, pressure-sensitive adhesive attaches immediately.",
+                  "To integrate into the design seamlessly, the tape can be cut to exact sizes and forms.",
+                  "Boosts throughput and makes assembly simpler.",
+                  "Continuous bond evenly disperses stress along the linked surfaces’ whole length.",
+                  "Durable seal against moisture, salt, and other elements",
+                  "Excellent weather resistant tapes."
+              ],
+              "image": "Product_imager/image 1.png"
+          }
+      ]
+  },
+  {
+      "categoryId": 3,
+      "category": "wire_harness_industry",
+      "categoryName": "Wire Harness Industry",
+      "categoryImage": "category-poster/Wire-Harness-Industry.jpg",
+      "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
+      "products": [
+          {
+              "id": 5,
+              "title": "HDPE FABRIC TAPES",
+              "description": "A superior quality self adhesive tape which has been specially made for joining and sealing of bags with HDPE base. The tape has high adhesions and tensile which help in keeping joints well sealed.",
+              "application": [
+                  "Ideal for sealing heavy cartons",
+                  "Used for re-inforcing, splicing, bundling, laminating, and strapping",
+                  "For permanent applications, specifically in the industry of making FIBC Bags"
+              ],
+              "features": [
+                  "This tape is incredibly simple to use for packing, jointing, sealing, reinforcement, rope bundling, and edge protection.",
+                  "Tamper-proof, high-adhesive strength tape.",
+                  "Heavy-dutyy water resistance tape.",
+                  "Edge protection, security seal tape, tamper-proof tape, and company branding can all be accomplished with HDPE self-adhesive tape."
+              ],
+              "image": "Product_imager/image 1.png"
+          },
+          {
+              "id": 6,
+              "title": "PLATE MOUNTING TAPES",
+              "description": "Plate mounting tape is designed for high-speed flexography and general printing. Plate mounting tape is used for flexographic printing plate mounting applications, improving printing quality, speed and efficiency. The high adhesion and good shear resistance of these tapes ensure that there is no plate movement or edge lift problems, even at high speeds and on extended print runs.",
+              "application": [
+                  "Plate mounting tapes are used widely across the printing and graphics industry.",
+                  "In Flexographic Printing.",
+                  "Building And Construction.",
+                  "It is mainly used to mount printing plates onto sleeves and cylinders."
+              ],
+              "features": [
+                  "Plate mounting tape achieves superior printing results even at higher machine speeds and during longer print runs.",
+                  "Specific embossed plastic liner reduces the risk of air entrapment, allowing for bubble-free mounting of the plate.",
+                  "Plates are easily repositioned during mounting as the full adhesion of the tape only becomes effective during the print run."
+              ],
+              "image": "Product_imager/image 1.png"
+          }
+      ]
+  },
+  {
+      "categoryId": 4,
+      "category": "electrical_and_electronic_industry",
+      "categoryName": "Electrical and Electronic Industry",
+      "categoryImage": "category-poster/Electricals-Electronics-Industry.jpg",
+      "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
+      "products": [
+          {
+              "id": 7,
+              "title": "WATER ACTIVATED PAPER REINFORCED TAPES",
+              "description": "Paper Reinforced Tape is a water-activated reinforced tape designed to provide consistent performance in carton sealing applications where durability, extra strength and reliability are required. It has extra strong fibreglass yarns which are bonded between the high tensile strength sheets for an extra margin of strength. This waterproof reinforcement tape is ideal for leather, shoes, fabric, fiberglass, and paper holes.",
+              "application": [
+                  "This tape creates a strong, lasting seal.",
+                  "Boxes are sealed secure, yet easy to open without cutting tools",
+                  "Normally constructed from paper, our taping system is easy to operate, apply, and handle, making it ideal for hand applications."
+              ],
+              "features": [
+                  "This tape interacts with porous surfaces to form a powerful secure bond.",
+                  "The tape-bond forms a tamper-evident seal that shreds if an attempt is made to pull it off before delivery.",
+                  "Paper construction is easy to handle, making it ideal for hand applications.",
+                  "They are an easy, economical solution to a wide variety of carton sealing challenges."
+              ],
+              "image": "Product_imager/image 1.png"
+          },
+          {
+              "id": 8,
+              "title": "KRAFT PAPER TAPES",
+              "description": "Kraft paper tape is a product that is made out of Flat Back Paper coated with strong adhesive as the Packaging Solution with special features of high adhesion strength, tear-resistant- a next-generation product for packing solution.Our kraft paper tape provides a cleaning, writing surface for pencils, pens, water-based marker pens, oily markers, and more. Our eco-friendly material is made with 100% kraft paper, hotmelt glue, and water-soluble ink which makes it stronger, more durable, and able to create a solid seal to ensure a lasting hold.",
+              "application": [
+                  "Mario Kraft paper tape can be used for sealing carboard.",
+                  "Used in heavy-duty packaging for moving, shipping, or long-term indoor storage.",
+                  "Ideal for labeling boxes."
+              ],
+              "features": [
+                  "Pressure Sensitive",
+                  "Moisture Resistant, Waterproof Adhesive Tapes",
+                  "Strong Synthetic Rubber Adhesive Tapes",
+                  "Aggressive natural/synthetic rubber adhesive is designed to offer positive",
+                  "Attractive seal to minimize carton sealing failures and prevent pilferage."
+              ],
+              "image": "Product_imager/image 1.png"
+          }
+      ]
+  },
+  {
+      "categoryId": 5,
+      "category": "hvac_industry",
+      "categoryName": "HVAC Industry",
+      "categoryImage": "category-poster/HVAC-Industry.jpg",
+      "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
+      "products": [
+          {
+              "id": 9,
+              "title": "ANTI-SLIP TAPES",
+              "description": "Anti-slip tape is typically employed in circumstances where there is a high chance of slipping or falling or when a fall is likely to result in catastrophic injuries. It has a “grippable” surface that raises the coefficient of friction between the work surface and the worker’s shoe sole, reducing the likelihood of sliding. On surfaces that are in contact with water, oil, or other substances that reduce friction, anti-slip tape is frequently employed.",
+              "application": [
+                  "Anti- Skid tapes are frequently utilized in places like storefronts, hotels, restaurants, and many other establishments.",
+                  "In the kitchen and eating rooms, where food, drinks, oils, and other liquids might spill, slip and fall accidents are frequent. By putting anti-slip tapes all over the workstation, accidents caused by slippery surfaces can be avoided.",
+                  "When wet, high-trafficcations such as loading docks, ledges, and ramps can become hazardous, especially when moving large cargo.",
+                  "The use of anti-slip tapes on stairs helps to reduce accidents caused by falls.",
+                  "The anti-slip tape helps stop falls from wet or dry debris in places like food processing and woodworking industries."
+              ],
+              "features": [
+                  "To lessen the chance of slipping, the anti-skid tape is comprised of material that is slip resistant.",
+                  "It offers Exceptional durability",
+                  "Anti Skid or Slip Tape is intended to improve and maintain assurance of safety in slick building locations.",
+                  "Anti-slip tape adds extra traction for uneven elevations that are made even riskier for employees or visitors when wet."
+              ],
+              "image": "Product_imager/image 1.png"
+          },
+          {
+              "id": 10,
+              "title": "MIRROR MOUNTING TAPES",
+              "description": "Our mirror mounting tapes are designed to resist humidity, making them ideal for use in environments such as bathrooms and other areas with high moisture levels. These tapes have a strong bonding strength that can securely hold plastics, glass, and other materials, ensuring a long-lasting and durable hold for mirrors and other applications.",
+              "application": [
+                  "Mirror mounting tapes are used for mounting mirrors.",
+                  "It is used in other polymer panels onto wood or polymer substrates.",
+                  "Provides a reliable bonding solution for a variety of applications."
+              ],
+              "features": [
+                  "Mirror mounting tape provides a secure hold for mirrors onto flat and firm surfaces without the need for drilling holes or using fasteners.",
+                  "The tapes are easy to use and apply, making mirror installation quick and hassle-free.",
+                  "These are used by mirror makers for holding mirrors to base without the need of any screw.",
+                  "These tapes save time and labour."
+              ],
+              "image": "Product_imager/image 1.png"
+          }
+      ]
+  },
+  {
+      "categoryId": 6,
+      "category": "label_industry",
+      "categoryName": "Label Industry",
+      "categoryImage": "category-poster/Label-Industry.jpg",
+      "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
+      "products": [
+          {
+              "id": 11,
+              "title": "DOUBLE-SIDED TISSUE TAPES",
+              "description": "Double-sided tissue tapes are adhesive-coated lightweight tissues. Tissue paper is coated on both sides with acrylic water or solvent-based adhesives and laminated with double-side release paper to create the tape. Double-sided tissue tape, like double-sided paper products, provides consistency and greater stability than some adhesive transfer tapes. For mounting light objects, double-sided tissue tape is recommended. It can also be used to laminate and secure foams, wool fibers, papers, plastics, foils, and fabrics.",
+              "application": [
+                  "Lamination of foam and felt in the manufacture of automobiles and appliances",
+                  "Film/paper/oil splicing",
+                  "Laminating and fastening in the paper/plastic and printing sectors",
+                  "Affix posters and envelopes",
+                  "In the shoe and leather industries",
+                  "For computerized embroidery, mounting nameplates, metal/polycarbonate stickers, and so on."
+              ],
+              "features": [
+                  "Temperature Resistant Double Sided Tissue Tape",
+                  "Our Tissue Double Sided Adhesive Tape is Solvent Resistant",
+                  "Acrylic based adhesive",
+                  "Strong holding power and no adhesive deterioration",
+                  "Excellent temperature and solvent resistant",
+                  "Good shear strength",
+                  "No slippage after long applied"
+              ],
+              "image": "Product_imager/image 1.png"
+          },
+          {
+              "id": 12,
+              "title": "FLOOR MARKING TAPES",
+              "description": "Floor marking tape is used for area demarcation. This floor marking tape has a high resistance to solvents, oil and water. It has carrier material which is coated with natural rubber adhesive with premium-grade and durable properties. It is designed for marking and distinguishing ground and region, identification of hazardous regions such as construction sites and commonly used as a safety warning.",
+              "application": [
+                  "Lines are created on warehouse, manufacturing, and convention center floors using floor marking tapes.",
+                  "Floor marking tape is used to identify risks, divide spaces, establish aisles, and provide directions.",
+                  "Temporary marking of gym courts and dance floors.",
+                  "It is used in theatre, photography, film, and television production."
+              ],
+              "features": [
+                  "To aid enhance workplace organization, floor safety tape is used to mark hazards and define distinct work areas.",
+                  "Industrial floor tape is simple to apply and remove, leaving a clean work environment.",
+                  "When opposed to floor marking paints, floor marking tape requires little or no preparation.",
+                  "Everyday marking tape is abrasion-resistant and long-lasting, extending the life of floor safety markings.",
+                  "Sticks to Concrete, Composite, Wood, Vinyl, Tile & many more."
+              ],
+              "image": "Product_imager/image 1.png"
+          }
+      ]
+  },
+  {
+      "categoryId": 7,
+      "category": "packaging_industry",
+      "categoryName": "Packaging Industry",
+      "categoryImage": "category-poster/Packaging-Industry.jpg",
+      "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
+      "products": [
+          {
+              "id": 13,
+              "title": "CREPE PAPER MASKING TAPES",
+              "description": "A premium and economical general purpose grade Crepe Paper Paint Masking Film provides excellent pressure-sensitive and quick qualities and resistance to water solvent and oils.Our Masking Tapes are thin, sticky on one side, and easy-to-tear tapes with rubber-based adhesives that are used in various tasks ranging from sealing areas that are not to be painted or as insulation for electric wires and for various day-to-day applications",
+              "application": [
+                  "Our paint masking tape is used in paint shop refrigeration, automotive & business machinery, and many other places for general purpose application",
+                  "Masking of painted metal, plastic & rubber surface where staining could be a problem.",
+                  "Recommended for a wide variety of packing & light bundling operations.",
+                  "Employed to temporarily attach inspection stickers, nameplate, instructions, and work orders during manufacturing and assembly operations.",
+                  "For design, painting and bumper applications"
+              ],
+              "features": [
+                  "Natural rubber adhesives that leaves no residue.",
+                  "For all applications Such as painting, carpentry, art& craft, etc.",
+                  "High-Quality crepe paper.",
+                  "Precise finishing & European quality.",
+                  "High Holding Power.",
+                  "Writable grade",
+                  "Hand tearable."
+              ],
+              "image": "Product_imager/image 1.png"
+          },
+          {
+              "id": 14,
+              "title": "DOUBLE SIDED CLOTH TAPE",
+              "description": "Double-sided cloth tape consists of high-quality cloth coated with strong modified adhesive to suit the application of flex industry.",
+              "application": [
+                  "It is a Perfect Product of Carpet Fixing, Plate Mounting in Flexo Printing Unit",
+                  "Ideal for Reinforcing of conveyor belts."
+              ],
+              "features": [
+                  "Cotton base tape",
+                  "Comes out one piece without tearing",
+                  "Residue free tape"
+              ],
+              "image": "Product_imager/image 1.png"
+          }
+      ]
+  },
+  {
+      "categoryId": 8,
+      "category": "paper_mill_industry",
+      "categoryName": "Paper Mill Industry",
+      "categoryImage": "category-poster/Paper-Mills-Industry.jpg",
+      "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
+      "products": [
+          {
+              "id": 15,
+              "title": "PVC INSULATION TAPES",
+              "description": "This PVC insulation tape is made from finest-quality PVC film coated with a sturdy rubber based adhesive on the side. It is highly elongated and has excellent conformability for wire harnessing. This adhesive PVC insulation tape suitable for electrical works comes with good insulation, voltage resistance, flame resistance, and waterproof.",
+              "application": [
+                  "Highly preferred for Wire Bundling for white goods."
+              ],
+              "features": [
+                  "RoHS compliance.",
+                  "FR grade",
+                  "High temperature PVC wire harness tape for cable wire",
+                  "Harness industry with higher thickness"
+              ],
+              "image": "Product_imager/image 1.png"
+          },
+          {
+              "id": 16,
+              "title": "AUTOMATIC TAPE DISPENSER",
+              "description": "It is an electric water-activated tape dispenser (also known as a paper tape dispenser,gummed or gum tape water-activated tape dispenser) made for fast-paced shipping and packaging environment. This tape machine is calibrated in centimeters and has a voltage of 220V.",
+              "application": [
+                  "N/A"
+              ],
+              "features": [
+                  "Automatic tape advance",
+                  "Microprocessor based control",
+                  "14 preset color-coded keys, with lengths from 15 cm - 145cm",
+                  "Programmable keypad allows tape length to be adjusted in 1.27 cm increments.",
+                  "Tape output of 114.3 centimeters per second",
+                  "1,000 foot roll tape capacity",
+                  "Random Key"
+              ],
+              "image": "Product_imager/image 1.png"
+          }
+      ]
+  },
+  {
+      "categoryId": 9,
+      "category": "signage_industry",
+      "categoryName": "Signage Industry",
+      "categoryImage": "category-poster/Signage-Industry.jpg",
+      "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
+      "products": [
+          {
+              "id": 17,
+              "title": "MANUAL TAPE DISPENSER",
+              "description": "This is a manual water-activated tape dispenser that is rugged, reliable and simple to use. This dispenser is perfect for light-to medium-volume packaging areas and accommodates both reinforced or non-reinforced water-activated tape. It is available as a non-electrical unit and also with an optional top heater accessory (electricity required), when increased tape adhesion is needed.",
+              "application": [
+                  "N/A"
+              ],
+              "features": [
+                  "Sealing between 1 and 100 cartons per day/per 8hr shift",
+                  "Packing stations without access to electricity",
+                  "When there's a need to move the tape dispenser between various locations"
+              ],
+              "image": "Product_imager/image 1.png"
+          },
+          {
+              "id": 18,
+              "title": "BOPP PACKING TAPES",
+              "description": "BOPP is Biaxially Oriented Polypropylene (BOPP) Film coated with water based adhesive and our adhesive tapes are made from superior quality adhesive, which provides high tack and adhesion strength required for sealing of cartons to make them pilfer proof.",
+              "application": [
+                  "Ideal for carton sealing",
+                  "Used for Bundling, Re-inforcing, Laminating, Tabbing & Label Protection"
+              ],
+              "features": [
+                  "Bright Colors Available",
+                  "Tapes can be printed with company name or logo for better appeal & identification.",
+                  "Flawless dimensional stability and flatness."
+              ],
+              "image": "Product_imager/image 1.png"
+          }
+      ]
+  },
+  {
+      "categoryId": 10,
+      "category": "surface_protection_industry",
+      "categoryName": "Surface Protection Industry",
+      "categoryImage": "category-poster/Surface-protection-Industry.jpg",
+      "categoryDescription": "Wire EASTERN provides a range of tapes and adhesives that can be incorporated in manufacturing processes of white goods. They can reduce the use of fasteners and hardware and achieve a sleeker design, appearance and functionality. Being a leading tape and adhesive manufacturer, our products also ensure that your appliances are delivered to customers in pristine condition.",
+      "products": [
+          {
+              "id": 19,
+              "title": "SECURITY/VOID TAPES",
+              "description": "Security tapes for packaging are innovative, premium quality void tapes that offer protection from pilferage and theft during storage and/ or transit till the time it reaches the consignee. Any kind of tampering or unauthorized opening of consignment or packaging can easily be identified by the use of red security tapes. Our tamper-evident tapes are used for security purposes in the aviation industry for securely packing boxes, luggage, bottles, and security caution tape.",
+              "application": [
+                  "Logistics monitoring ",
+                  "Banking security",
+                  "Medical packaging seals",
+                  "Electronic goods protection and a variety of paper and plastic bags",
+                  "Boxes and cartons"
+              ],
+              "features": [
+                  "Custom - printed messages are available",
+                  "Simple application by hand",
+                  "Easy to transfer",
+                  "Increase in sales and profits through decrease in revenue loss, less complaints & lowering costs of replacement shipments.",
+                  "Securing shipments throughout the entire distribution chain."
+              ],
+              "image": "Product_imager/image 1.png"
+          },
+          {
+              "id": 20,
+              "title": "DOUBLE SIDED RED POLYESTER TAPES",
+              "description": "Red Polyester Tape is a double sided adhesive tape with translucent Salmon Red Color PE Liner which is highly suitable for mounting of decorative profiles, moldings, and trim parts for wide width lamination. ",
+              "application": [
+                  "It is recommended for film splicing/joining application.",
+                  "Preferred for Flex Media Joint, Foam Board Fixing, Glass and Acrylic Transparent Sheet Joining"
+              ],
+              "features": [
+                  "High Temperature Resistant Tape",
+                  "Solvent Resistant",
+                  "Acrylic Adhesive Tape",
+                  "Strong holding power and no adhesive deterioration",
+                  "Excellent temperature and solvent resistant",
+                  "Good shear strength",
+                  "No slippage after long applied"
+              ],
+              "image": "Product_imager/image 1.png"
+          }
+      ]
+  }
+]
