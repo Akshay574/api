@@ -28,19 +28,7 @@
         "features": ["Our book binding tape is made up of a non-reflective cloth-based adhesive.", "It is very easy to tear by hand.", "High resistance to abrasion.", "No Residue Behind."],
         "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
       },
-        {
-        "id": 3,
-        "title": "BOOK BINDING TAPES",
-        "description": "Our book binding tape is water resistance, strong hold, no damage. This binding repair tape is very easy to use, just take out your old book, measure the size that need to be repaired, then tear off the tape by hand or use a scissor, apply the tape to your book",
-        "application": [
-          "Our  book binding tape can be used for Book Repair, Gaffer use",
-          "Staging and Photography, Cables, Wires wrapping, Decoration",
-          "Bookbinding Tape is great for repairing, reinforcing.",
-          "Protects books, magazines, pamphlets, and other documents"
-        ],
-        "features": ["Our book binding tape is made up of a non-reflective cloth-based adhesive.", "It is very easy to tear by hand.", "High resistance to abrasion.", "No Residue Behind."],
-        "image": "https://raw.githubusercontent.com/Akshay574/api/main/Product_imager/image%201.png"
-      }
+      
     ]
   },
   {
